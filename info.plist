@@ -104,13 +104,13 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>AWS Console Services – Alfred Workflow
+	<string>AWS CloudWatch Trace – Alfred Workflow
 
-A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
+Alfred Workflow to open Traces in AWS CloudWatch Insights
 
 Supports Alfred 3 and 4
 
-Please see https://github.com/rkoval/alfred-aws-console-services-workflow for more details</string>
+Please see https://github.com/elsmr/alfred-aws-trace-workflow for more details</string>
 	<key>uidata</key>
 	<dict>
 		<key>721B7C99-244B-4DB5-8D2D-64EEA439C4D1</key>
