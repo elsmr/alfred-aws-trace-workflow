@@ -14,7 +14,7 @@ jobs:
         id: alfred_builder
         uses: mperezi/build-alfred-workflow@v1
         with:
-          workflow_dir: src
+          workflow_dir: "."
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
