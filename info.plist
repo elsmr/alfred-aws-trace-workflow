@@ -141,7 +141,7 @@ Please see https://github.com/elsmr/alfred-aws-trace-workflow for more details</
 		<string>true</string>
 	</dict>
 	<key>version</key>
-	<string>4.4.0</string>
+	<string>0.3.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
